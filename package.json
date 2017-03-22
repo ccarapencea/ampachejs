@@ -38,6 +38,7 @@
   },
   "homepage": "https://github.com/ccarapencea/ampachejs#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "xml": "^1.0.1"
   }
 }
