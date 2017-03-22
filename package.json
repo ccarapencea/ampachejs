@@ -1,0 +1,40 @@
+{
+  "name": "ampachejs",
+  "version": "1.0.0",
+  "description": "Node.js Ampache XML API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccarapencea/ampachejs.git"
+  },
+  "keywords": [
+    "ampache",
+    "xml",
+    "api",
+    "node",
+    "js",
+    "music",
+    "streaming",
+    "server",
+    "backend",
+    "daemon",
+    "https",
+    "ssl",
+    "standalone",
+    "back-end",
+    "stand-alone",
+    "library",
+    "mp3",
+    "db",
+    "database"
+  ],
+  "author": "Constantin Carapencea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccarapencea/ampachejs/issues"
+  },
+  "homepage": "https://github.com/ccarapencea/ampachejs#readme"
+}
